@@ -1,3 +1,7 @@
+
+/*
+ * This is to test the google search using simple automation code
+ */
 package com.google;
 
 import org.testng.annotations.Test;
